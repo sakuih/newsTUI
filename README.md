@@ -1,0 +1,2 @@
+# newsTUI
+News terminal program
